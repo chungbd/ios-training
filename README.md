@@ -4,7 +4,8 @@ It's the repository for the iOS class of Regen Solutions. It include logs, notes
 
 # Content
 1. [Block and completion handlers](https://github.com/chungbd/ios-training/tree/master/Block)
-2. 
+2. [MultiThreading](https://github.com/chungbd/ios-training/tree/master/MultiThreading)
+
 
 # Note
 1. using the command to clone this repo: git clone https://github.com/chungbd/ios-training.git  
