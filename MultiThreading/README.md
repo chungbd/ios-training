@@ -1,3 +1,3 @@
 # Reference
-1. [youtube](https://github.com/chungbd/ios-training/tree/master/Block)
+1. [youtube](https://www.youtube.com/watch?v=ks5V3BTOobc)
 2. 
