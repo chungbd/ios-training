@@ -5,7 +5,7 @@ It's the repository for the iOS class of Regen Solutions. It include logs, notes
 # Content:
 1. [Block and completion handlers 07/08/2016 ](https://github.com/chungbd/ios-training/tree/master/Block)
 2. [Passing data between two viewcontrollers 09/08/2016](https://github.com/chungbd/ios-training/tree/master/PassingData)
-3. [UI Table View - Swift]()
+3. [Swift 12/08/2016](https://github.com/chungbd/ios-training/tree/master/Swift)
 
 
 # Next:
