@@ -71,3 +71,37 @@ stringDog[stringDog.startIndex.advancedBy(1)]
 for index in stringDog.characters.indices {
     print("\(stringDog[index])")
 }
+
+// Remove the extention?!? of a file
+var string3 = "Margot.Robbie.mp4"
+
+let removerange = string3.rangeOfString(".", options: NSStringCompareOptions.BackwardsSearch)
+
+let prefix = String(string3.characters.prefixUpTo(removerange!.startIndex))
+
+// Create an array of non-repeated character in a string
+var animals = "vampire crab snail monkey snake cat bee pheonix"
+
+var arrayOfString = [String]()
+arrayOfString.append(String(animals[animals.startIndex]))
+
+var number = 0
+
+var exist:Bool
+
+for index in animals.characters.indices {
+    exist = false
+    for i in 0 ..< arrayOfString.count {
+        if String(animals[index]) == arrayOfString[i] {
+            exist = true
+            break
+        }
+    }
+    
+    if exist == false {
+        arrayOfString.append(String(animals[index]))
+    }
+}
+
+arrayOfString
+
