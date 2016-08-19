@@ -1,3 +1,7 @@
+# Second day - 19/08/2016:
+1. correct exerise
+
+
 # First day - 12082016:
 1. [The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 2. [Basics Operators](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html#//apple_ref/doc/uid/TP40014097-CH6-ID60)
@@ -38,6 +42,7 @@ Hint:
 * [youtube](https://www.youtube.com/watch?v=T0xzTbXhOvE)
 * [medium](https://medium.com/ios-os-x-development/swipeable-table-view-cells-in-ios-apps-472da0af1935#.pg8qjo6sd)
 * [And more](http://www.teehanlax.com/blog/reproducing-the-ios-7-mail-apps-interface/)
+
 
 # Next:
 1. [Controller Flow]()
