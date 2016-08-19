@@ -22,7 +22,7 @@ Là một app xem phim của một đối tác tại VN, gồm các chức năng
   - Học cách tạo một Pull request trên github.
 
 - Learn to install cocoapods and using it.
-
+- Read document about requesting to service in Document folder.
 - (Optional) install and use Photoshop that help you understand what designer think and work or understand design files
 
 ## Login:
