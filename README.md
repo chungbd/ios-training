@@ -3,10 +3,10 @@ It's the repository for the iOS class of Regen Solutions. It include logs, notes
 
 
 # Content:
-1. [Block and completion handlers 07/08/2016 ](https://github.com/chungbd/ios-training/tree/master/Block)
-2. [Passing data between two viewcontrollers 09/08/2016](https://github.com/chungbd/ios-training/tree/master/PassingData)
-3. [Swift 12/08/2016](https://github.com/chungbd/ios-training/tree/master/Swift)
 4. [Swift 18/08/2016](https://github.com/chungbd/ios-training/tree/master/Swift)
+3. [Swift 12/08/2016](https://github.com/chungbd/ios-training/tree/master/Swift)
+2. [Passing data between two viewcontrollers 09/08/2016](https://github.com/chungbd/ios-training/tree/master/PassingData)
+1. [Block and completion handlers 07/08/2016 ](https://github.com/chungbd/ios-training/tree/master/Block)
 5. [Mini Project](https://github.com/chungbd/ios-training/tree/master/Mini%20Project)
 
 # Next:
