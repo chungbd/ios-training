@@ -35,7 +35,7 @@ tương tự.
 ## Note:
 1. Tất cả các resource đều ở branch master, nếu thiếu hãy confirm lại với Mr Chung
 2. Khó thì hỏi các ae, đồng nghiệp, Mr Chung và Mr Dũng để có keyword
-3. 
+3. Ưu tiên sử dụng Objectiec-C(dùng Swift cũng đc nhưng phải đúng yêu cầu hoặc khuyến khích làm cả hay nhưng phải đảm bảo deadline)
 
 # Next:
 1. Register
