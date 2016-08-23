@@ -1,5 +1,6 @@
 # Second day - 19/08/2016:
-1. correct exerise
+1. Correct exercise
+2. Exercise: Begin to do [the mini project](https://github.com/chungbd/ios-training/tree/master/Mini%20Project)
 
 
 # First day - 12082016:
