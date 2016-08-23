@@ -19,18 +19,37 @@ Là một app xem phim của một đối tác tại VN, gồm các chức năng
 - Git
   - Cần tạo một branch khác lấy tên của mình để code và push trên đó.
   - Học cách merge từ branch master sang branch của mình để update resource.
-  - Học cách tạo một Pull request trên github.
+  - Học cách tạo một Pull request trên git.
+  - Tạo một tài khoản trên [Bitbucket](https://bitbucket.org) rồi gửi lại cho Mr Chung thông tin để add vào team trên đó.
+  - Sau khi vào team trên bitbucket, các bạn sẽ tạo repo của mình trong mini project đã tạo, để tiện cho các bạn quản lý code.
 
 - Learn to install cocoapods and using it.
 - Read document about requesting to service in Document folder.
 - (Optional) install and use Photoshop that help you understand what designer think and work or understand design files
 
-## Login:
+## Main feature:
+
+### Login:
 - Hoàn thiện màn hình đăng nhập đúng với thiết kế.
 - Trong lúc đợi response trả về, phải xuất hiện loading view như [MBProgressHUD](https://github.com/jdg/MBProgressHUD) hoặc
 tương tự.
 - Khi đăng nhập thành công, show ra màn hình demo: thông tin của user như email, id, trạng thái is_expire 
 - Deadline: Tuesday(23/08/2016)
+
+### Register:
+- Hoàn thiện màn hình đăng kí đúng với thiết kế.
+- Trong lúc đợi response trả về, phải xuất hiện loading view như [MBProgressHUD](https://github.com/jdg/MBProgressHUD) hoặc
+tương tự.
+- Khi đăng kí thành công, hiện lên thông báo và quay trở lại màn hình đăng nhập.
+- Deadline: Thursday(25/08/2016)
+
+### Forgot password:
+- Hoàn thiện màn hình quên mật khẩu đúng với thiết kế.
+- Trong lúc đợi response trả về, phải xuất hiện loading view như [MBProgressHUD](https://github.com/jdg/MBProgressHUD) hoặc
+tương tự.
+- Khi thành công, hiện lên thông báo và quay trở lại màn hình đăng nhập.
+- Deadline: Tuesday(30/08/2016)
+
 
 ## Note:
 1. Tất cả các resource đều ở branch master, nếu thiếu hãy confirm lại với Mr Chung
